@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+h1, form{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+img{
+    border: 50px;
+}
